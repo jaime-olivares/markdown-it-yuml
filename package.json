@@ -1,0 +1,33 @@
+{
+  "name": "markdown-it-yuml",
+  "version": "1.0.0",
+  "description": "Markdown-It plugin for drawing yuml diagrams",
+  "author": "Jaime Olivares",
+  "publisher": "Jaime Olivares",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaime-olivares/markdown-it-yuml"
+  },
+  "keywords": [
+    "markdown-it",
+    "markdown",
+    "diagram",
+    "yuml",
+    "uml"
+  ],
+  "main": "./index.js",
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jaime-olivares/markdown-it-yuml/issues"
+  },
+  "homepage": "https://github.com/jaime-olivares/markdown-it-yuml",
+  "devDependencies": {
+    "markdown-it": "^8.4.2"
+  },
+  "dependencies": {
+    "yuml-diagram": "^1.1.0"
+  }
+}
